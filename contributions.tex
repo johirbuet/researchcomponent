@@ -1,7 +1,15 @@
 \section{Controbutions of the paper}
+The authors of the paper rewrite visualization queries $Q$ using data reduction operator 
+$M_R$ such that the visualization of the original data from query $Q$ and the visualization 
+from the query $Q_R = M_R(Q)$ are similar and error free. 
+\begin{figure}[h]
+	\includegraphics[width=0.5\textwidth]{qr}
+	\caption{Time series visualization: a) based on original data; b) Using data reduction operator;}   
+	\label{fig:1}
+\end{figure}
+As shown in Figure \ref{fig:1} $Q_R$ produced the same visualization as $Q$ with almost 10 times less tuples and 10 times reduced time. 
 
 \input{query.tex}
 \input{visualization.tex}
 \input{datared.tex}
 \input{tsdatared.tex}
-\input{evaluation.tex}
