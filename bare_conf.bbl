@@ -21,6 +21,24 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{fu2011review}
+T.-c. Fu, ``A review on time series data mining,'' \emph{Engineering
+  Applications of Artificial Intelligence}, vol.~24, no.~1, pp. 164--181, 2011.
+
+\bibitem{labrinidis2012challenges}
+A.~Labrinidis and H.~V. Jagadish, ``Challenges and opportunities with big
+  data,'' \emph{Proceedings of the VLDB Endowment}, vol.~5, no.~12, pp.
+  2032--2033, 2012.
+
+\bibitem{fan2014challenges}
+J.~Fan, F.~Han, and H.~Liu, ``Challenges of big data analysis,'' \emph{National
+  science review}, vol.~1, no.~2, pp. 293--314, 2014.
+
+\bibitem{chen2014data}
+C.~P. Chen and C.-Y. Zhang, ``Data-intensive applications, challenges,
+  techniques and technologies: A survey on big data,'' \emph{Information
+  Sciences}, vol. 275, pp. 314--347, 2014.
+
 \bibitem{jugel2014m4}
 U.~Jugel, Z.~Jerzak, G.~Hackenbroich, and V.~Markl, ``M4: a
   visualization-oriented time series data aggregation,'' \emph{Proceedings of
