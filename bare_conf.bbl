@@ -39,6 +39,14 @@ C.~P. Chen and C.-Y. Zhang, ``Data-intensive applications, challenges,
   techniques and technologies: A survey on big data,'' \emph{Information
   Sciences}, vol. 275, pp. 314--347, 2014.
 
+\bibitem{cormode2014sampling}
+G.~Cormode and N.~Duffield, ``Sampling for big data,'' 2014.
+
+\bibitem{wu2014data}
+X.~Wu, X.~Zhu, G.-Q. Wu, and W.~Ding, ``Data mining with big data,'' \emph{IEEE
+  transactions on knowledge and data engineering}, vol.~26, no.~1, pp. 97--107,
+  2014.
+
 \bibitem{jugel2014m4}
 U.~Jugel, Z.~Jerzak, G.~Hackenbroich, and V.~Markl, ``M4: a
   visualization-oriented time series data aggregation,'' \emph{Proceedings of
