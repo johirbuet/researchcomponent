@@ -35,6 +35,11 @@ all four extrema from w groups.
 	\caption{Performance of different queries with varying row counts}
 	\label{vr}
 \end{figure*}
+\begin{figure*}
+	\includegraphics[width=\textwidth]{dsim}
+	\caption{: Data efficiency of evaluated techniques, showing DSSIM over data volume}
+	\label{dsim}
+\end{figure*}
 
 The query performance of different approaches in terms of execution time of the queries is shown in Figure \ref{qper}. It shows that aggregation based approaches perform better compared to baseline approaches. Figure \ref{vr} shows exemplary results of performance  for varying row counts on soccer data. The aggregation based queries perform much than baseline queries as the size of rows increase. 
 
@@ -45,3 +50,15 @@ value between 1 and −1. The authors use $DSSIM$, the normalized distance betwe
 \begin{equation}
 DSSIM(V_1, V_2) = \frac{1 - SSIM}{2}
 \end{equation}
+
+In Figure \ref{dsim}, the authors plotted the measured, resulting visualization
+quality (DSSIM) over the resulting number of tuples of each
+different groupings nh = 1 to nh = 2.5·w of an applied data
+reduction technique. For readability, we cut off all low quality
+results with DSSIM < 0.8. The lower the number of
+tuples and the higher the DSSIM, the more data efficient is
+the corresponding technique for the purpose of line visualization.
+The Figures 14aI and 14bI depict these measures for
+binary line visualizations and the Figures 14aII and 14bII
+for anti-aliased line visualizations. We now observe the following
+results.
