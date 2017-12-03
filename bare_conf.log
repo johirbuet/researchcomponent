@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.18)  3 DEC 2017 13:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.18)  3 DEC 2017 14:04
 entering extended mode
 **./bare_conf.tex
 (bare_conf.tex
@@ -120,7 +120,11 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen117
 \Gin@req@width=\dimen118
 )
-(bare_conf.aux)
+(bare_conf.aux
+
+LaTeX Warning: Label `fig:1' multiply defined.
+
+)
 \openout1 = `bare_conf.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 351.
@@ -214,9 +218,23 @@ Overfull \hbox (9.03374pt too wide) in paragraph at lines 6--7
 [][] 
  []
 
-(query.tex) (datared.tex) (tsdatared.tex)) (evaluation.tex) (related.tex)
-(proposal.tex) (bare_conf.bbl [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex
-.map}
+(query.tex) (datared.tex <m4.png, id=3, 300.52275pt x 183.68625pt>
+File: m4.png Graphic file (type png)
+
+<use m4.png>
+Package pdftex.def Info: m4.png used on input line 4.
+(pdftex.def)             Requested size: 252.94499pt x 154.60649pt.
+
+Overfull \hbox (9.03374pt too wide) in paragraph at lines 4--5
+[][] 
+ []
+
+) (tsdatared.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)) (evaluation.tex) (related.tex) (proposal.tex) (bare_conf.bbl [1{C:/ProgramDa
+ta/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
  <./qr.png>])
@@ -233,26 +251,30 @@ Before submitting the final camera ready copy, remember to:
 
 [2
 
-] (bare_conf.aux) ) 
+ <./m4.png>] (bare_conf.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2207 strings out of 493323
- 34874 string characters out of 3139066
- 99797 words of memory out of 3000000
- 5725 multiletter control sequences out of 15000+200000
+ 2212 strings out of 493323
+ 34923 string characters out of 3139066
+ 99836 words of memory out of 3000000
+ 5729 multiletter control sequences out of 15000+200000
  33595 words of font info for 63 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  39i,8n,25p,424b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/tim
-es/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bare_conf.pdf (2 pages, 117430 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on bare_conf.pdf (2 pages, 189030 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 47 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
