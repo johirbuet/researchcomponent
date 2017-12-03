@@ -11,3 +11,37 @@ The authors use the following datasets:
 	from an electrical power sensor of a semiconductor manufacturing
 	machine \cite{jerzak2012debs}(sensor MF03, 55M rows)
 \end{enumerate}
+
+The approaches compared are following:
+1) a baseline query that selects
+all tuples to be visualized, 2) a PAA-query that computes
+up to 4·w average tuples, 3) a two-dimensional rounding
+query that selects up to w.h rounded tuples, 4) a strati-
+fied random sampling query that selects 4·w random tuples,
+5) a systematic sampling query that selects 4·w first tuples,
+6) a MinMax query that selects the two min and max tuples
+from 2 · w groups, and finally 7)  M4 query selecting
+all four extrema from w groups.
+
+\subsection{Query performance}
+\begin{figure*}
+	\includegraphics[width=\textwidth]{qp}
+	\caption{Query performance: (a,b,c,d) financial data, (e,f) soccer data, (g,h) machine data}
+	\label{qper}
+\end{figure*}
+
+\begin{figure*}
+	\includegraphics[width=0.5\textwidth]{pv}
+	\caption{Performance of different queries with varying row counts}
+	\label{vr}
+\end{figure*}
+
+The query performance of different approaches in terms of execution time of the queries is shown in Figure \ref{qper}. It shows that aggregation based approaches perform better compared to baseline approaches. Figure \ref{vr} shows exemplary results of performance  for varying row counts on soccer data. The aggregation based queries perform much than baseline queries as the size of rows increase. 
+
+\subsection{Visualization quality and Data Efficiency}
+Authors in \cite{wang2004image} have shown that for visualization quality $MSE$ (Mean Square Error) doesn't perform well and they proposed $SSIM$ (Structural
+Similarity Index) for the measurement of image quality. The SSIM yields a similarity
+value between 1 and −1. The authors use $DSSIM$, the normalized distance between two visualizations for measuring the visualization quality. The formula is given below:
+\begin{equation}
+DSSIM(V_1, V_2) = \frac{1 - SSIM}{2}
+\end{equation}

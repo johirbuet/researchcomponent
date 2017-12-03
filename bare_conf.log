@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.18)  3 DEC 2017 14:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.18)  3 DEC 2017 15:28
 entering extended mode
 **./bare_conf.tex
 (bare_conf.tex
@@ -250,7 +250,31 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Missing character: There is no Â in font cmr10!
 Missing character: There is no · in font cmr10!
 ))
-(evaluation.tex) (related.tex) (proposal.tex) (bare_conf.bbl)
+(evaluation.tex
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no · in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no · in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no · in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no · in font ptmr7t!
+ <qp.png, id=18, 595.023pt x 289.08pt>
+File: qp.png Graphic file (type png)
+ <use qp.png>
+Package pdftex.def Info: qp.png used on input line 28.
+(pdftex.def)             Requested size: 505.89pt x 245.78531pt.
+
+<pv.png, id=19, 263.18324pt x 115.02975pt>
+File: pv.png Graphic file (type png)
+ <use pv.png>
+Package pdftex.def Info: pv.png used on input line 34.
+(pdftex.def)             Requested size: 252.94499pt x 110.55893pt.
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no ˆ in font ptmr7t!
+Missing character: There is no ’ in font ptmr7t!
+) (related.tex)
+(proposal.tex) (bare_conf.bbl [2 <./m4.png> <./th1.png>])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -262,27 +286,27 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[2 <./m4.png> <./th1.png>] (bare_conf.aux) ) 
+[3 <./qp.png> <./pv.png>] (bare_conf.aux) ) 
 Here is how much of TeX's memory you used:
- 2228 strings out of 493323
- 35077 string characters out of 3139066
- 100865 words of memory out of 3000000
- 5744 multiletter control sequences out of 15000+200000
+ 2241 strings out of 493323
+ 35200 string characters out of 3139066
+ 100885 words of memory out of 3000000
+ 5755 multiletter control sequences out of 15000+200000
  33595 words of font info for 63 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  39i,8n,25p,459b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/
-enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/tim
-es/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bare_conf.pdf (2 pages, 247331 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/e
+nc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/time
+s/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on bare_conf.pdf (3 pages, 389256 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
