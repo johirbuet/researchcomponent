@@ -59,5 +59,11 @@ tuples and the higher the DSSIM, the more data efficient is
 the corresponding technique for the purpose of line visualization.
 The Figures \ref{dsim}aI and \ref{dsim}bI depict these measures for
 binary line visualizations and the Figures \ref{dsim}aII and \ref{dsim}bII
-for anti-aliased line visualizations. We now observe the following
-results.
+for anti-aliased line visualizations. On average
+M4 provides a visualization quality of $DSSIM > 0.9$.
+
+\subsection{Evaluation of pixel errors}
+The authors also show an evaluation of the pixel errors incurred due to data reduction.
+In a visualization of 100*20 pixels, MinMax results in 30 false pixels, RDP
+in 39 false pixels, and PAA in over 100 false pixels. M4 stays
+error-free. Which shows that M4 was able to produce error free visualization even after reduction of data.
