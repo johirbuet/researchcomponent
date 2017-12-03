@@ -6,3 +6,7 @@ Though the M4 aggregation provides an error free visualization it has the follow
 	\item and it doesn't handle the data file system like CSV, JSON and most visualization systems take data directly from these file systems \cite{bostock2011d3}.
 	\item It also doesn't provide solution for streaming data visualizations. But visualization of streaming time series data with appropriate reduction in data size is a crucial need of moder exploratory data analysis etc.
 \end{enumerate}
+We propose some improvements and future works that can be done on top of this works.
+\begin{itemize}
+	\item To cover the modern NoSQL databases like MongoDB and cluster based daat sources like Hadoop and spark we need to modify the M4 aggregation strategies and adapt those to MongoDB NoSQL queries and Hadoop Map-reduce queries. It can be easily shown that the M4 query can be adapted to these platforms after slight modifications. For example if we write map-reduce queries using Apache Hive \cite{thusoo2009hive,barbierato2013modeling} that comes with Hadoop stack the same SQL queries used by M4 can be used.
+\end{itemize}

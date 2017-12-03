@@ -74,4 +74,18 @@ M.~Bostock, V.~Ogievetsky, and J.~Heer, ``D$^3$ data-driven documents,''
   \emph{IEEE transactions on visualization and computer graphics}, vol.~17,
   no.~12, pp. 2301--2309, 2011.
 
+\bibitem{thusoo2009hive}
+A.~Thusoo, J.~S. Sarma, N.~Jain, Z.~Shao, P.~Chakka, S.~Anthony, H.~Liu,
+  P.~Wyckoff, and R.~Murthy, ``Hive: a warehousing solution over a map-reduce
+  framework,'' \emph{Proceedings of the VLDB Endowment}, vol.~2, no.~2, pp.
+  1626--1629, 2009.
+
+\bibitem{barbierato2013modeling}
+E.~Barbierato, M.~Gribaudo, and M.~Iacono, ``Modeling apache hive based
+  applications in big data architectures,'' in \emph{Proceedings of the 7th
+  International Conference on Performance Evaluation Methodologies and
+  Tools}.\hskip 1em plus 0.5em minus 0.4em\relax ICST (Institute for Computer
+  Sciences, Social-Informatics and Telecommunications Engineering), 2013, pp.
+  30--38.
+
 \end{thebibliography}
