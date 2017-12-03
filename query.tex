@@ -1,2 +1,11 @@
 \subsection{Query Rewriting}
-TODO Query rewriting
+Most queries for time series visualization are of the form \textbf{SELECT time, value FROM 
+SERIES WHERE $time > t_1$ AND $time <t_2$}. In addition to the query the visualization parameters like width and height are also passed for query rewriting. 
+The rewritten query $Q_R$ contains the following subqueries:
+\begin{enumerate}
+	\item Original Query Q
+	\item A cardinal query $Q_C$ on $Q$
+	\item a cardinality check (conditional execution)
+	\item to either use the result of $Q$ directly or to execute an additional reduction $Q_D$ on $Q$.
+\end{enumerate}
+$M4$ system composes all those subqueries into single SQL query to avoid bandwidth consumption.
