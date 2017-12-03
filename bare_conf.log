@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.18)  3 DEC 2017 14:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.18)  3 DEC 2017 14:15
 entering extended mode
 **./bare_conf.tex
 (bare_conf.tex
@@ -120,11 +120,7 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen117
 \Gin@req@width=\dimen118
 )
-(bare_conf.aux
-
-LaTeX Warning: Label `fig:1' multiply defined.
-
-)
+(bare_conf.aux)
 \openout1 = `bare_conf.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 351.
@@ -230,17 +226,13 @@ Overfull \hbox (9.03374pt too wide) in paragraph at lines 4--5
  []
 
 
-LaTeX Warning: Reference `fig:2' on page 1 undefined on input line 9.
-
-) (tsdatared.tex
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-)) (evaluation.tex) (related.tex) (proposal.tex) (bare_conf.bbl [1{C:/ProgramDa
+) (tsdatared.tex)) (evaluation.tex) (related.tex) (proposal.tex [1{C:/ProgramDa
 ta/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
- <./qr.png>])
+ <./qr.png>]) (bare_conf.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -254,31 +246,24 @@ Before submitting the final camera ready copy, remember to:
 
 [2
 
- <./m4.png>] (bare_conf.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+ <./m4.png>] (bare_conf.aux) ) 
 Here is how much of TeX's memory you used:
  2213 strings out of 493323
  34930 string characters out of 3139066
- 99836 words of memory out of 3000000
+ 100805 words of memory out of 3000000
  5730 multiletter control sequences out of 15000+200000
  33595 words of font info for 63 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  39i,8n,25p,424b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bare_conf.pdf (2 pages, 193400 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base
+/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utm
+r8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on bare_conf.pdf (2 pages, 194405 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
