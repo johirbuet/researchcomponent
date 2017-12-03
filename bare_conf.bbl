@@ -74,6 +74,12 @@ M.~Bostock, V.~Ogievetsky, and J.~Heer, ``D$^3$ data-driven documents,''
   \emph{IEEE transactions on visualization and computer graphics}, vol.~17,
   no.~12, pp. 2301--2309, 2011.
 
+\bibitem{patel2012addressing}
+A.~B. Patel, M.~Birla, and U.~Nair, ``Addressing big data problem using hadoop
+  and map reduce,'' in \emph{Engineering (NUiCONE), 2012 Nirma University
+  International Conference on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE,
+  2012, pp. 1--5.
+
 \bibitem{thusoo2009hive}
 A.~Thusoo, J.~S. Sarma, N.~Jain, Z.~Shao, P.~Chakka, S.~Anthony, H.~Liu,
   P.~Wyckoff, and R.~Murthy, ``Hive: a warehousing solution over a map-reduce
@@ -87,5 +93,15 @@ E.~Barbierato, M.~Gribaudo, and M.~Iacono, ``Modeling apache hive based
   Tools}.\hskip 1em plus 0.5em minus 0.4em\relax ICST (Institute for Computer
   Sciences, Social-Informatics and Telecommunications Engineering), 2013, pp.
   30--38.
+
+\bibitem{de2015incremental}
+B.~De~Seabra and R.~Ravindran, ``Incremental data processing,'' May~22 2015, uS
+  Patent App. 14/720,448.
+
+\bibitem{yan2012incmr}
+C.~Yan, X.~Yang, Z.~Yu, M.~Li, and X.~Li, ``Incmr: Incremental data processing
+  based on mapreduce,'' in \emph{Cloud Computing (CLOUD), 2012 IEEE 5th
+  International Conference on}.\hskip 1em plus 0.5em minus 0.4em\relax IEEE,
+  2012, pp. 534--541.
 
 \end{thebibliography}

@@ -8,5 +8,7 @@ Though the M4 aggregation provides an error free visualization it has the follow
 \end{enumerate}
 We propose some improvements and future works that can be done on top of this works.
 \begin{itemize}
-	\item To cover the modern NoSQL databases like MongoDB and cluster based daat sources like Hadoop and spark we need to modify the M4 aggregation strategies and adapt those to MongoDB NoSQL queries and Hadoop Map-reduce queries. It can be easily shown that the M4 query can be adapted to these platforms after slight modifications. For example if we write map-reduce queries using Apache Hive \cite{thusoo2009hive,barbierato2013modeling} that comes with Hadoop stack the same SQL queries used by M4 can be used.
+	\item To cover the modern NoSQL databases like MongoDB and cluster based daat sources like Hadoop and spark we need to modify the M4 aggregation strategies and adapt those to MongoDB NoSQL queries and Hadoop Map-reduce queries \cite{patel2012addressing}. It can be easily shown that the M4 query can be adapted to these platforms after slight modifications. For example if we write map-reduce queries using Apache Hive \cite{thusoo2009hive,barbierato2013modeling} that comes with Hadoop stack the same SQL queries used by M4 can be used.
+	\item For streaming data we can use incremental data processing techniques \cite{de2015incremental,yan2012incmr} and apply the concepts of M4 and make some modifications to propose an incremental version of M4 for real time data visualization with reduced data.
+	\item For processing file system data we can create an intermediate data operator that will convert the M4 queries into a query that can be applied on CSV, JSON or relevant file types.
 \end{itemize}
