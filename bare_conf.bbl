@@ -52,4 +52,16 @@ U.~Jugel, Z.~Jerzak, G.~Hackenbroich, and V.~Markl, ``M4: a
   visualization-oriented time series data aggregation,'' \emph{Proceedings of
   the VLDB Endowment}, vol.~7, no.~10, pp. 797--808, 2014.
 
+\bibitem{mutschler2013debs}
+C.~Mutschler, H.~Ziekow, and Z.~Jerzak, ``The debs 2013 grand challenge,'' in
+  \emph{Proceedings of the 7th ACM international conference on Distributed
+  event-based systems}.\hskip 1em plus 0.5em minus 0.4em\relax ACM, 2013, pp.
+  289--294.
+
+\bibitem{jerzak2012debs}
+Z.~Jerzak, T.~Heinze, M.~Fehr, D.~Gr{\"o}ber, R.~Hartung, and N.~Stojanovic,
+  ``The debs 2012 grand challenge,'' in \emph{Proceedings of the 6th ACM
+  International Conference on Distributed Event-Based Systems}.\hskip 1em plus
+  0.5em minus 0.4em\relax ACM, 2012, pp. 393--398.
+
 \end{thebibliography}

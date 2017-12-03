@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.18)  3 DEC 2017 14:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.18)  3 DEC 2017 14:42
 entering extended mode
 **./bare_conf.tex
 (bare_conf.tex
@@ -249,8 +249,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
  <./qr.png>]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no · in font cmr10!
-)
-(tsdatared.tex)) (evaluation.tex) (related.tex) (proposal.tex) (bare_conf.bbl)
+))
+(evaluation.tex) (related.tex) (proposal.tex) (bare_conf.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -265,9 +265,9 @@ Before submitting the final camera ready copy, remember to:
 [2 <./m4.png> <./th1.png>] (bare_conf.aux) ) 
 Here is how much of TeX's memory you used:
  2228 strings out of 493323
- 35069 string characters out of 3139066
- 100859 words of memory out of 3000000
- 5741 multiletter control sequences out of 15000+200000
+ 35077 string characters out of 3139066
+ 100865 words of memory out of 3000000
+ 5744 multiletter control sequences out of 15000+200000
  33595 words of font info for 63 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  39i,8n,25p,459b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -280,7 +280,7 @@ les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/tim
 es/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bare_conf.pdf (2 pages, 246337 bytes).
+Output written on bare_conf.pdf (2 pages, 247331 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
