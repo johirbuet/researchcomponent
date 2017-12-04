@@ -69,6 +69,12 @@ Z.~Wang, A.~C. Bovik, H.~R. Sheikh, and E.~P. Simoncelli, ``Image quality
   assessment: from error visibility to structural similarity,'' \emph{IEEE
   transactions on image processing}, vol.~13, no.~4, pp. 600--612, 2004.
 
+\bibitem{burtini2013time}
+G.~Burtini, S.~Fazackerley, and R.~Lawrence, ``Time series compression for
+  adaptive chart generation,'' in \emph{Electrical and Computer Engineering
+  (CCECE), 2013 26th Annual IEEE Canadian Conference on}.\hskip 1em plus 0.5em
+  minus 0.4em\relax IEEE, 2013, pp. 1--6.
+
 \bibitem{bostock2011d3}
 M.~Bostock, V.~Ogievetsky, and J.~Heer, ``D$^3$ data-driven documents,''
   \emph{IEEE transactions on visualization and computer graphics}, vol.~17,

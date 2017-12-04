@@ -1,9 +1,7 @@
 \section{Prior Works}
 In this section, various prior works in the field of visualization systems has been discussed.
 
-\begin{enumerate}
-	\item Visualization Systems
-\end{enumerate}
+\subsection{Visualization Systems}
 Current Visualization systems are categorized into three categories 1) The ones which do not used data reduction 2) The ones that compute and send images instead to data visualization 3) The ones which rely upon data reduction outside of the database.
 
 These three approaches have been compared with the authors’ proposed solution.\newline
@@ -22,11 +20,7 @@ Online data visualization websites like Yahoo Finance, or Google Finance come un
 The third category of systems consist of rich-client visualization systems which are also described in the section above. Authors’ proposed system can prevent the costly data transfer by running the expensive data reduction operations directly inside the data engine. The system modifies the original query by adding in some data reduction operations and then runs the new query. The data engine can then execute this new query, thus performing the additional data reduction task without the need of data transfer.\newline
 
 
-
-\begin{enumerate}
-	\item Data Reduction
-\end{enumerate}
-
+\subsection{Data Reduction}
 In this section, the author talks about the pre-existing data reduction methods and how they are related to visualization.\newline
 
 \textit{Quantization - }
@@ -38,9 +32,6 @@ The goal of existing works on time-series representation is to obtain a much sma
 In addition to the above pre-existing methods there are some other methods which focus on \textit{offline Aggregation and synopsis, Data Compression, Content Adaption, and various statistical approaches}. In offline aggregation technique, some aggregation methods like sum, avg, count of data are implemented which approximately represent the data, but they still are subjected to approximation errors. Data Compression is applied on application level data till now. Authors’techniques can also be applied to transport level data such as data packet compression. There are different data reduction techniques for different kind of contents. The proposed solution in this paper can be applied to any kind of content like videos, images, or text in web based systems.
 \newline
 
+\subsection{Visualization-Driven Data Reduction }
 
-\begin{enumerate}
-	\item Visualization-Driven Data Reduction 
-\end{enumerate}
-
-Burtini et al. [12] has described the usage of visualization parameters for data reduction. Howeverm they describe a client-server system as described earlier in category 3, i.e., they apply data reduction outside of the database. In the proposed solution, all the data processing including the data reduction is processed by the means of modified queries. Also, previous works use aggregation techniques for data reduction thus losing the important details in the vertical extrema and do not discuss the semantics of rasterized line visualizations as covered in this paper. 
+Burtini et al. \cite{burtini2013time} has described the usage of visualization parameters for data reduction. Howeverm they describe a client-server system as described earlier in category 3, i.e., they apply data reduction outside of the database. In the proposed solution, all the data processing including the data reduction is processed by the means of modified queries. Also, previous works use aggregation techniques for data reduction thus losing the important details in the vertical extrema and do not discuss the semantics of rasterized line visualizations as covered in this paper. 
