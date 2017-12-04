@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.18)  3 DEC 2017 16:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.18)  3 DEC 2017 18:47
 entering extended mode
 **./bare_conf.tex
 (bare_conf.tex
@@ -197,10 +197,6 @@ G,.JBIG2,.JB2,.eps]
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 407.
-Missing character: There is no Ã in font ptmri7t!
-Missing character: There is no Ÿ in font ptmri7t!
-Missing character: There is no Ã in font ptmri7t!
-Missing character: There is no Ÿ in font ptmri7t!
  (intro.tex) (contributions.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 2.
@@ -227,10 +223,11 @@ Overfull \hbox (9.03374pt too wide) in paragraph at lines 4--5
 [][] 
  []
 
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (upper.tex <th1.png, id=4, 290.88675pt x 107.2005pt>
+ <./qr.png> <./m4.png>])
+(upper.tex <th1.png, id=18, 290.88675pt x 107.2005pt>
 File: th1.png Graphic file (type png)
  <use th1.png>
 Package pdftex.def Info: th1.png used on input line 3.
@@ -240,17 +237,9 @@ Overfull \hbox (9.03374pt too wide) in paragraph at lines 3--4
 [][] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
- <./qr.png>]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no · in font cmr10!
-))
-(evaluation.tex
+)) (evaluation.tex
 Missing character: There is no Â in font ptmr7t!
 Missing character: There is no · in font ptmr7t!
 Missing character: There is no Â in font ptmr7t!
@@ -259,13 +248,13 @@ Missing character: There is no Â in font ptmr7t!
 Missing character: There is no · in font ptmr7t!
 Missing character: There is no Â in font ptmr7t!
 Missing character: There is no · in font ptmr7t!
- <qp.png, id=18, 595.023pt x 289.08pt>
+ <qp.png, id=19, 595.023pt x 289.08pt>
 File: qp.png Graphic file (type png)
  <use qp.png>
 Package pdftex.def Info: qp.png used on input line 28.
 (pdftex.def)             Requested size: 505.89pt x 245.78531pt.
 
-<pv.png, id=19, 263.18324pt x 115.02975pt>
+<pv.png, id=20, 263.18324pt x 115.02975pt>
 File: pv.png Graphic file (type png)
  <use pv.png>
 Package pdftex.def Info: pv.png used on input line 34.
@@ -275,7 +264,7 @@ Overfull \hbox (9.03374pt too wide) in paragraph at lines 34--35
 [][] 
  []
 
-<dsim.png, id=20, 487.8225pt x 194.52675pt>
+<dsim.png, id=21, 487.8225pt x 194.52675pt>
 File: dsim.png Graphic file (type png)
  <use dsim.png>
 Package pdftex.def Info: dsim.png used on input line 39.
@@ -286,8 +275,8 @@ Missing character: There is no ’ in font ptmr7t!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no · in font cmr10!
 ) (related.tex)
-(proposal.tex [2 <./m4.png> <./th1.png>]) (conclusion.tex) (bare_conf.bbl
-[3 <./qp.png> <./pv.png>]
+(proposal.tex [2 <./th1.png>]) (conclusion.tex) (bare_conf.bbl [3 <./qp.png> <.
+/pv.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 73.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -308,7 +297,7 @@ Before submitting the final camera ready copy, remember to:
 Here is how much of TeX's memory you used:
  2270 strings out of 493323
  35550 string characters out of 3139066
- 100917 words of memory out of 3000000
+ 101917 words of memory out of 3000000
  5774 multiletter control sequences out of 15000+200000
  35418 words of font info for 69 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
@@ -323,7 +312,7 @@ les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX
 ublic/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/
 utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bare_conf.pdf (4 pages, 484744 bytes).
+Output written on bare_conf.pdf (4 pages, 484652 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
